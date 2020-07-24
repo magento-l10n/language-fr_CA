@@ -4656,7 +4656,7 @@ Cybersource,CyberSource
 "Not available in production mode.","Pas disponible en mode production."
 "Front-end development workflow","Workflow de développement du frontend"
 "Magento was installed with a table prefix. Please re-install without prefix.","Magento a été installé avec un préfixe de table. Veuillez réinstaller sans préfixe."
-"Log to Syslog","Se connecter à Syslog"
+"Log to Syslog","Log vers syslog"
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Sélectionnez cette option pour permettre à DHL d'optimiser les frais d'expédition en divisant la commande si elle dépasse %1 %2."
 "Wrong Content Type","Mauvais type de contenu"
 Pounds,Livres
