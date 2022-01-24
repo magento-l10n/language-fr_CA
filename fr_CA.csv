@@ -427,6 +427,11 @@ Environment,Environnement
 "Select all","Tout sélectionner"
 "Deselect all","Tout désélectionner"
 "We couldn't find any records.","Nous n'avons pu trouvé aucun enregistrement."
+" to "," à "
+" of "," sur "
+Previous,Précédent
+"You're currently reading page","Vous lisez actuellement la page"
+Next,Suivant
 Show,Afficher
 "per page","par page"
 "%s of %s selected","%s de %s sélectionnés"
@@ -669,8 +674,6 @@ password,"mot de passe"
 "Sign Out",Déconnexion
 "About the calendar","À propos du calendrier"
 "Go Today","Aller à aujourd'hui"
-Previous,Précédent
-Next,Suivant
 WK,Semaine
 Time,Heure
 Hour,Heure
@@ -4967,7 +4970,6 @@ Numeric,Numérique
 Generate,Générer
 "Code Pool used: ","Ensemble de codes utilisé : "
 " (free "," (gratuit "
-" of "," sur "
 "Refund Gift Cards to Store Credit","Rembourser des cartes-cadeaux qu crédit du magasin"
 "Amount can be returned to Store Credit.","Montant peut être reporté sur le crédit magasin."
 "Add Gift Card","Ajouter une carte-cadeau"
@@ -10087,7 +10089,6 @@ Loading...,"Chargement en cours..."
 "This is a demo store. No orders will be fulfilled.","Il s'agit d'un magasin de démonstration. Aucune commande ne sera honorée."
 "Items %1 to %2 of %3 total","Articles %1 à %2 sur %3 au total"
 "%1 Item(s)","%1 article(s)"
-"You're currently reading page","Vous lisez actuellement la page"
 "The store will not work correctly in the case when cookies are disabled.","La boutique ne fonctionnera pas correctement dans le cas où les cookies sont désactivés."
 Email:,"Email :"
 "We don't recognize this file extension.","Nous ne reconnaissons pas cette extension de fichier."
@@ -10784,7 +10785,7 @@ Comment:,"Commentaire :"
 error-message,"message d’erreur"
 LocalizedException,Localisation
 "Product Exception.","Exception de produit."
-"Regular Price","Prix normal"
+"Regular Price","Prix régulier"
 "Share Wish List","Partager liste d'achats"
 "Add All to Cart","Tout ajouter au panier"
 "Update Wish List","Mettre à jour liste d'achats"
@@ -10816,7 +10817,7 @@ LocalizedException,Localisation
 "No Items Found","Aucun article trouvé"
 "User Description","Description utilisateur"
 "Product Details and Comment","Détails du produit et commentaire"
-"Add To Wishlist","Ajouter à la liste d'achats"
+"Add To Wishlist","Ajouter à la liste d'envies"
 "Missing key ""model"" in Wishlist Item value data","Manque de clé « modèle » dans les données de valeur d’élément de liste d'achats"
 "Missing key ""model"" in Wishlist value data","Manque de clé « modèle » dans les données de valeur d’élément de liste d'achats"
 "Credit card type","Type de carte de crédit"
@@ -10858,11 +10859,10 @@ Worldpay,WorldPay
 "Set Order Status to Suspected Fraud for Postcode AVS","Statut de la commande pour suspicion de fraude pour code postal AVS"
 "Payment was canceled.","Paiement a été annulé."
 "Your payment has been successfully processed by our shop system.","Votre paiement a été traité avec succès par notre système."
-"Payment was canceled","Paiement annulé"
+"Payment was canceled","Le paiement a été annulé"
 "Please ","Veuillez "
 "continue shopping","continuez les achats"
 "Transaction has been canceled","La transaction a été annulée"
-"My Account","Mon Compte"
 "Quick Checkout","Commande rapide"
 "Store alternative addresses","Mémoriser plusieurs adresses"
 "For shipping to multiple family members and friends","Pour l'expédition à plusieurs destinataires"
