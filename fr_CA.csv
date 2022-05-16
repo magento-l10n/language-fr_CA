@@ -10910,7 +10910,7 @@ Worldpay,WorldPay
 Translate,Traduire
 "Please remove invalid characters: {0}.","Veuillez supprimer les caractères non valides : {0}."
 "Please enter a valid email address (Ex: johndoe@domain.com).","Veuillez entrer une adresse courriel valide (Ex : johndoe@domain.com)."
-"Forbidden extensions has been used. Avoid usage of ","Les extensions interdites ont été utilisées. Éviter l'utilisation de "
+"Forbidden extensions has been used. Avoid usage of ","Des extensions interdites ont été utilisées. Évitez l'utilisation de "
 "Please select one of the options above.","Veuillez sélectionner au moins une des options ci-dessus."
 "Please select a file.","Merci de sélectionner un fichier."
 "Please select one of the options.","Merci de sélectionner l'une de ces options."
@@ -10926,7 +10926,7 @@ Translate,Traduire
 "Please enter a valid number.","Veuillez entrer un numéro valide."
 "This is required field","Ce champ est obligatoire"
 "Admin is a required field in each row.","Admin est un champ obligatoire dans chaque ligne."
-"The maximum you may purchase is %1.","Le maximum que vous pouvez acheter est %1."
+"Please enter a quantity greater than 0.","Veuillez saisir une quantité supérieure à 0."
 "Please fix this field.","Corrigez ce champ."
 "Please enter a valid email address.","Veuillez entrer une adresse courriel valide."
 "Please enter a valid URL.","Saisissez une adresse URL valide."
